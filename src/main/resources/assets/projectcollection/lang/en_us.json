@@ -1,0 +1,13 @@
+{
+  "itemGroup.projectcollection": "Example Mod Tab",
+  "block.projectcollection.example_block": "Example Block",
+  "item.projectcollection.example_item": "Example Item",
+
+  "projectcollection.configuration.title": "ProjectCollection Configs",
+  "projectcollection.configuration.section.projectcollection.common.toml": "ProjectCollection Configs",
+  "projectcollection.configuration.section.projectcollection.common.toml.title": "ProjectCollection Configs",
+  "projectcollection.configuration.items": "Item List",
+  "projectcollection.configuration.logDirtBlock": "Log Dirt Block",
+  "projectcollection.configuration.magicNumberIntroduction": "Magic Number Text",
+  "projectcollection.configuration.magicNumber": "Magic Number"
+}
